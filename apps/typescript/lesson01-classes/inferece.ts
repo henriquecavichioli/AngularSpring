@@ -13,4 +13,4 @@ Classe
 */
 let test: Array<string> = ['Hello', 'Teste'];
 let isEnabled: boolean = true;
-let test2: [string] = ['Hello', 'Test'];
+let test2: [string, string] = ['Hello', 'Test'];
